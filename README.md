@@ -7,7 +7,7 @@ This project demonstrates how to train the YOLOv8 model from Ultralytics for obj
 
 ## Example Output
 ![Detected Images](test_image_outputs/output_image1.jpg)
-![Detected Video](output_videos/SRH.mp4)
+
 ---
 
 ## Table of Contents
